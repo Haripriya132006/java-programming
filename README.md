@@ -2,6 +2,7 @@
 
 
 ## 1. git init
+if pushing multiple times then this is optional ..
 ## 2. git config user.name "user name of github"
 ## 3. git config user.email "email used in github"
 ## 4. git add -A 
