@@ -9,4 +9,8 @@ if pushing multiple times then this is optional ..
 (to add all files in the repo)
 ## 5. git commit -m "Success"
 ## 6. git push link_of_the_repo
+
+if you are doing updates and pushing again use
+## 6. git pull link_of_the_repo
+## 6. git push link_of_the_repo
   
