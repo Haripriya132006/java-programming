@@ -11,6 +11,7 @@ if pushing multiple times then this is optional ..
 ## 6. git push link_of_the_repo
 
 if you are doing updates and pushing again use
-## 6. git pull link_of_the_repo
-## 6. git push link_of_the_repo
+## 7. git pull link_of_the_repo
+## 8. git commit -m "Success"
+## 9. git push link_of_the_repo
   
