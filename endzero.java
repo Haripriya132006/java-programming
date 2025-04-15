@@ -9,7 +9,6 @@ public class endzero {
         for (int i=5;num1/i>=1;i*=5){
             count+=num1/i;
             }
-        while
         System.out.println("count of trailing zeros: "+count);
     }
 }
