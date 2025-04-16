@@ -1,6 +1,6 @@
 import java.util.*;
-
-public class armstrong {
+//class is a user defined datatype .. mewww ^__^
+public class armstrong {   //^v^ >v<
     public static int pow(int num,int exp){
         int power=1;
         while (exp>0){
