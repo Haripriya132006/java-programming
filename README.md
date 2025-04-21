@@ -11,7 +11,8 @@ if pushing multiple times then this is optional ..
 ## 6. git push link_of_the_repo
 
 if you are doing updates and pushing again use
-## 7. git pull link_of_the_repo
+## 7. git pull link_of_the_repo - if has readme file ...
+usually the below three commands work well
 ## 8. git add -A 
 ## 9. git commit -m "Success"
 ## 10. git push link_of_the_repo

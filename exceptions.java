@@ -1,7 +1,7 @@
 public class exceptions {
     public static void main(String[] args){
         int a=24;
-        int b=0;
+        int b=1;
         try{
             int n=a/b;
             System.out.println(n);

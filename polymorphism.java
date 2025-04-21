@@ -10,7 +10,6 @@ public class polymorphism {
         System.out.println(cals((float)n1,(float)n2));
 
 
-
     }
     public static int cals(int a,int b){
         return a+b;
