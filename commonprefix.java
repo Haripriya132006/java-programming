@@ -1,7 +1,10 @@
 public class commonprefix {
-    //order of n*n as nested loops are being usedddd
     public static void main(String[] args) {
-        String[] arr= {"malar","mariam"};
+        String[] arr= {"flower","flow","fly"};
+        method1(arr);  
+    }
+
+    public static void method1(String[] arr){      //order of n*n as nested loops are being usedddd
         int a=100000;
         String reference="";
         String common="";
@@ -27,7 +30,7 @@ public class commonprefix {
                 common+=reference.charAt(i);
             }
             else{
-                System.out.println("no more common chars");
+                // System.out.println("no more common chars loop end");
                 break;
             }
         }

@@ -69,8 +69,8 @@ public class inherit {
 }
 
 class User extends basicinfo {
-    String petname;
-    String petId;
+    Stringsss petname;
+    Stringsss petId;
 
     @Override
     public void welcome() {
@@ -79,8 +79,8 @@ class User extends basicinfo {
 }
 
 class Driver extends basicinfo {
-    String vehicleName;
-    String vehicleNumber;
+    Stringsss vehicleName;
+    Stringsss vehicleNumber;
 
     @Override
 
