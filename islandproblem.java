@@ -13,11 +13,6 @@ class islandproblem{
     }
 
     public static void dulr(int i,int j,int[][]arr){
-        // if(arr[i][j]==0){
-        //     System.out.println("all zeros so end");
-        //     return;
-        // }
-
         if((i+1<arr.length) && arr[i+1][j]==1) {
             arr[i+1][j]=0;
             // System.out.println("saw an land at down");
@@ -52,7 +47,6 @@ class islandproblem{
                 }
 
             }
-  
         }
         System.out.println( "count would be "+count);
     }
